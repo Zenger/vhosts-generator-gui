@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/main">
+        <file alias="cat">C:/Users/Zenger/Desktop/1391814893_cat.png</file>
+    </qresource>
+</RCC>
